@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.web.DeliveryCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-11-25T17:21:25" hostname="LAPTOP-SHHOH48R" time="21.08">
+  <properties/>
+  <testcase name="bookCard()" classname="ru.netology.web.DeliveryCardTest" time="21.08"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+нояб. 25, 2023 8:21:33 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 119, so returning the closest version found: 115
+]]></system-err>
+</testsuite>
